@@ -88,35 +88,7 @@
   "pedidos": [
     {
       "id": 1,
-      "pedido": [
-        {
-          "produto": "Antártica",
-          "qtd": 2
-        },
-        {
-          "produto": "Hambúrguer",
-          "qtd": 22
-        }
-      ],
-      "preco": 3,
-      "mesa": 12,
-      "qtd": 3
-    },
-    {
-      "id": 2,
-      "pedido": [
-        {
-          "produto": "Coca-cola",
-          "qtd": 2
-        },
-        {
-          "produto": "Calabresa",
-          "qtd": 1
-        }
-      ],
-      "preco": 3,
-      "mesa": 12,
-      "qtd": 3
+      "pedido": []
     }
   ]
 }
