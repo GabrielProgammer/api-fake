@@ -44,7 +44,8 @@
       "id": 4,
       "img": "sanduiche-x-salada.jpeg",
       "nome": "X-salada",
-      "preco": 3
+      "preco": 3,
+      "categoria": "Chá"
     },
     {
       "id": 5,
