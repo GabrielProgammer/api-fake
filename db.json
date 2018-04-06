@@ -95,7 +95,8 @@
       "img": "pastel-calabresa.jpeg",
       "nome": "Calabresa",
       "preco": 3,
-      "categoria": "Pastel"
+      "categoria": "Pastel",
+      "versoes": ["100g", "400g", "1kg"];
     }
   ],
   "pedidos": [
