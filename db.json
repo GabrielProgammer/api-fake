@@ -96,7 +96,7 @@
       "nome": "Calabresa",
       "preco": 3,
       "categoria": "Pastel",
-      "versoes": ["100g", "400g", "1kg"];
+      "versoes": ["100g", "400g", "1kg"]
     }
   ],
   "pedidos": [
