@@ -51,6 +51,7 @@
       "img": "sanduiche-x-salada.jpeg",
       "nome": "X-salada",
       "preco": 3,
+      "versoes": ["450g", "1.5Kg", "1.2KG"],
       "categoria": "Sanduíche"
     },
     {
@@ -58,6 +59,7 @@
       "img": "sanduiche-misto.jpeg",
       "nome": "Misto",
       "preco": 3,
+      "versoes": ["450g", "1.5Kg", "1.2KG"],
       "categoria": "Sanduíche"
     },
     {
@@ -65,6 +67,7 @@
       "img": "sanduiche-hamburguer.jpeg",
       "nome": "Hambúrguer",
       "preco": 3,
+      "versoes": ["694g", "1.4kg", "1.6Kg"],
       "categoria": "Sanduíche"
     },
     {
@@ -72,6 +75,7 @@
       "img": "sanduiche-frango-com-salada.png",
       "nome": "Frango com salada",
       "preco": 12,
+      "versoes": ["450g", "700g", "1.3Kg"],
       "categoria": "Sanduíche"
     }
   ],
@@ -89,6 +93,7 @@
       "img": "pastel-frango.jpeg",
       "nome": "Frango",
       "preco": 3,
+      "versoes": ["120g", "500g", "1Kg"],
       "categoria": "Pastel"
     },
     {
@@ -96,6 +101,7 @@
       "img": "pastel-calabresa.jpeg",
       "nome": "Calabresa",
       "preco": 3,
+      "versoes": ["120g", "500g", "1Kg"],
       "categoria": "Pastel"
     }
   ],
