@@ -81,6 +81,7 @@
       "img": "pastel-carne.jpeg",
       "nome": "Carne",
       "preco": 6,
+      "versoes": ["12g"],
       "categoria": "Pastel"
     },
     {
