@@ -136,10 +136,5 @@
       "versoes": ["120g", "500g", "1Kg"],
       "categoria": "Pastel"
     }
-  ],
-  "pedidos": [
-    {
-      "pedido": []
-    }
   ]
 }
