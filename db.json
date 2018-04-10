@@ -5,6 +5,7 @@
       "img": "bebida-coca-cola.jpg",
       "nome": "Coca-cola",
       "preco": 4.5,
+      "versoes": ["450ml", "1.5L", "600ml"],
       "categoria": "Refrigerante"
     },
     {
@@ -12,6 +13,7 @@
       "img": "bebida-antarctica.jpg",
       "nome": "Antártica",
       "preco": 4.5,
+      "versoes": ["450ml", "1.5L", "600ml"],
       "categoria": "Refrigerante"
     },
     {
@@ -19,6 +21,7 @@
       "img": "bebida-ice-cola.jpeg",
       "nome": "Ice cola",
       "preco": 4.5,
+      "versoes": ["450ml", "1.5L", "600ml"],
       "categoria": "Refrigerante"
     }
   ],
@@ -28,6 +31,7 @@
       "img": "cha-preto.jpeg",
       "nome": "Chá Preto",
       "preco": 23.5,
+      "versoes": ["450ml", "1.5L", "600ml"],
       "categoria": "Chá"
     },
     {
@@ -35,6 +39,7 @@
       "img": "cha-hortela.jpeg",
       "nome": "Chá de Hortelã",
       "preco": 13.5,
+      "versoes": ["450ml", "1.5L", "600ml"],
       "categoria": "Chá"
     },
     {
@@ -42,6 +47,7 @@
       "img": "cha-canela.jpeg",
       "nome": "Chá de Canela",
       "preco": 6.8,
+      "versoes": ["450ml", "1.5L", "600ml"],
       "categoria": "Chá"
     }
   ],
