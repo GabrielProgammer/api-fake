@@ -55,7 +55,7 @@
     {
       "id": 0,
       "img": "cha-preto.jpeg",
-      "nome": "Chá Preto",
+      "nome": "Preto",
       "preco": 23.5,
       "versoes": ["450ml", "1.5L", "600ml"],
       "categoria": "Chá"
@@ -63,7 +63,7 @@
     {
       "id": 1,
       "img": "cha-hortela.jpeg",
-      "nome": "Chá de Hortelã",
+      "nome": "Hortelã",
       "preco": 13.5,
       "versoes": ["450ml", "1.5L", "600ml"],
       "categoria": "Chá"
@@ -71,7 +71,7 @@
     {
       "id": 1,
       "img": "cha-canela.jpeg",
-      "nome": "Chá de Canela",
+      "nome": "Canela",
       "preco": 6.8,
       "versoes": ["450ml", "1.5L", "600ml"],
       "categoria": "Chá"
