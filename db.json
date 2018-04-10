@@ -25,6 +25,32 @@
       "categoria": "Refrigerante"
     }
   ],
+  "suco": [
+    {
+  		"id": 0,
+		  "img": "suco-melancia.jpeg",
+  		"nome": "Melancia",
+  		"preco": 23.50,
+      "versoes": ["450ml", "1.5L", "600ml"],
+      "categoria": "Suco"
+  	},
+  	{
+  		"id": 1,
+		  "img": "suco-tangerina.jpeg",
+  		"nome": "Tangerina",
+  		"preco": 23.50,
+      "versoes": ["450ml", "1.5L", "600ml"],
+      "categoria": "Suco"
+  	},
+  	{
+  		"id": 2,
+		  "img": "suco-limao.jpeg",
+  		"nome": "Limão",
+  		"preco": 23.50,
+      "versoes": ["450ml", "1.5L", "600ml"],
+      "categoria": "Suco"
+  	}
+   ],
   "cha": [
     {
       "id": 0,
