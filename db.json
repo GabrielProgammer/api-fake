@@ -1,11 +1,21 @@
 {
-  "refrigerantes": [
-    {
+  "refrigerantes": [{
       "id": 1,
       "img": "bebida-coca-cola.jpg",
       "nome": "Coca-cola",
       "preco": 4.5,
-      "versoes": ["450ml", "1.5L", "600ml"],
+      "versoes": [{
+          "peso": "450ml",
+          "preco": 4.5
+        }, {
+          "peso": "1.5L",
+          "preco": 7
+        },
+        {
+          "peso": "600ml",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Refrigerante"
     },
     {
@@ -13,7 +23,18 @@
       "img": "bebida-antarctica.jpg",
       "nome": "Antártica",
       "preco": 4.5,
-      "versoes": ["450ml", "1.5L", "600ml"],
+      "versoes": [{
+          "peso": "450ml",
+          "preco": 4.5
+        }, {
+          "peso": "1.5L",
+          "preco": 7
+        },
+        {
+          "peso": "600ml",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Refrigerante"
     },
     {
@@ -21,43 +42,96 @@
       "img": "bebida-ice-cola.jpeg",
       "nome": "Ice cola",
       "preco": 4.5,
-      "versoes": ["450ml", "1.5L", "600ml"],
+      "versoes": [{
+          "peso": "450ml",
+          "preco": 4.5
+        }, {
+          "peso": "1.5L",
+          "preco": 7
+        },
+        {
+          "peso": "600ml",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Refrigerante"
     }
   ],
-  "suco": [
+  "suco": [{
+      "id": 0,
+      "img": "suco-melancia.jpeg",
+      "nome": "Melancia",
+      "preco": 23.50,
+      "versoes": [{
+          "peso": "450ml",
+          "preco": 4.5
+        }, {
+          "peso": "1.5L",
+          "preco": 7
+        },
+        {
+          "peso": "600ml",
+          "preco": 5.75
+        }
+      ],
+      "categoria": "Suco"
+    },
     {
-  		"id": 0,
-		  "img": "suco-melancia.jpeg",
-  		"nome": "Melancia",
-  		"preco": 23.50,
-      "versoes": ["450ml", "1.5L", "600ml"],
+      "id": 1,
+      "img": "suco-tangerina.jpeg",
+      "nome": "Tangerina",
+      "preco": 23.50,
+      "versoes": [{
+          "peso": "450ml",
+          "preco": 4.5
+        }, {
+          "peso": "1.5L",
+          "preco": 7
+        },
+        {
+          "peso": "600ml",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Suco"
-  	},
-  	{
-  		"id": 1,
-		  "img": "suco-tangerina.jpeg",
-  		"nome": "Tangerina",
-  		"preco": 23.50,
-      "versoes": ["450ml", "1.5L", "600ml"],
-      "categoria": "Suco"
-  	},
-  	{
-  		"id": 2,
-		  "img": "suco-limao.jpeg",
-  		"nome": "Limão",
-  		"preco": 23.50,
-      "versoes": ["450ml", "1.5L", "600ml"],
-      "categoria": "Suco"
-  	}
-   ],
-  "cha": [
+    },
     {
+      "id": 2,
+      "img": "suco-limao.jpeg",
+      "nome": "Limão",
+      "preco": 23.50,
+      "versoes": [{
+          "peso": "450ml",
+          "preco": 4.5
+        }, {
+          "peso": "1.5L",
+          "preco": 7
+        },
+        {
+          "peso": "600ml",
+          "preco": 5.75
+        }
+      ],
+      "categoria": "Suco"
+    }
+  ],
+  "cha": [{
       "id": 0,
       "img": "cha-preto.jpeg",
       "nome": "Preto",
       "preco": 23.5,
-      "versoes": ["450ml", "1.5L", "600ml"],
+      "versoes": [{
+          "peso": "450ml",
+          "preco": 4.5
+        }, {
+          "peso": "1.5L",
+          "preco": 7
+        },
+        {
+          "peso": "600ml",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Chá"
     },
     {
@@ -65,7 +139,18 @@
       "img": "cha-hortela.jpeg",
       "nome": "Hortelã",
       "preco": 13.5,
-      "versoes": ["450ml", "1.5L", "600ml"],
+      "versoes": [{
+          "peso": "450ml",
+          "preco": 4.5
+        }, {
+          "peso": "1.5L",
+          "preco": 7
+        },
+        {
+          "peso": "600ml",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Chá"
     },
     {
@@ -73,17 +158,38 @@
       "img": "cha-canela.jpeg",
       "nome": "Canela",
       "preco": 6.8,
-      "versoes": ["450ml", "1.5L", "600ml"],
+      "versoes": [{
+          "peso": "450ml",
+          "preco": 4.5
+        }, {
+          "peso": "1.5L",
+          "preco": 7
+        },
+        {
+          "peso": "600ml",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Chá"
     }
   ],
-  "sanduiche": [
-    {
+  "sanduiche": [{
       "id": 4,
       "img": "sanduiche-x-salada.jpeg",
       "nome": "X-salada",
       "preco": 3,
-      "versoes": ["450g", "1.5Kg", "1.2KG"],
+      "versoes": [{
+          "peso": "450g",
+          "preco": 4.5
+        }, {
+          "peso": "1.5Kg",
+          "preco": 7
+        },
+        {
+          "peso": "1.2KG",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Sanduíche"
     },
     {
@@ -91,7 +197,18 @@
       "img": "sanduiche-misto.jpeg",
       "nome": "Misto",
       "preco": 3,
-      "versoes": ["450g", "1.5Kg", "1.2KG"],
+      "versoes": [{
+          "peso": "450g",
+          "preco": 4.5
+        }, {
+          "peso": "1.5Kg",
+          "preco": 7
+        },
+        {
+          "peso": "1.2KG",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Sanduíche"
     },
     {
@@ -99,7 +216,18 @@
       "img": "sanduiche-hamburguer.jpeg",
       "nome": "Hambúrguer",
       "preco": 3,
-      "versoes": ["694g", "1.4kg", "1.6Kg"],
+      "versoes": [{
+          "peso": "450g",
+          "preco": 4.5
+        }, {
+          "peso": "1.5Kg",
+          "preco": 7
+        },
+        {
+          "peso": "1.2KG",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Sanduíche"
     },
     {
@@ -107,17 +235,38 @@
       "img": "sanduiche-frango-com-salada.png",
       "nome": "Frango com salada",
       "preco": 12,
-      "versoes": ["450g", "700g", "1.3Kg"],
+      "versoes": [{
+          "peso": "450g",
+          "preco": 4.5
+        }, {
+          "peso": "1.5Kg",
+          "preco": 7
+        },
+        {
+          "peso": "1.2KG",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Sanduíche"
     }
   ],
-  "pasteis": [
-    {
+  "pasteis": [{
       "id": 7,
       "img": "pastel-carne.jpeg",
       "nome": "Carne",
       "preco": 6,
-      "versoes": ["120g", "500g", "1Kg"],
+      "versoes": [{
+          "peso": "450g",
+          "preco": 4.5
+        }, {
+          "peso": "1.5Kg",
+          "preco": 7
+        },
+        {
+          "peso": "1.2KG",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Pastel"
     },
     {
@@ -125,7 +274,18 @@
       "img": "pastel-frango.jpeg",
       "nome": "Frango",
       "preco": 3,
-      "versoes": ["120g", "500g", "1Kg"],
+      "versoes": [{
+          "peso": "450g",
+          "preco": 4.5
+        }, {
+          "peso": "1.5Kg",
+          "preco": 7
+        },
+        {
+          "peso": "1.2KG",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Pastel"
     },
     {
@@ -133,7 +293,18 @@
       "img": "pastel-calabresa.jpeg",
       "nome": "Calabresa",
       "preco": 3,
-      "versoes": ["120g", "500g", "1Kg"],
+      "versoes": [{
+          "peso": "450g",
+          "preco": 4.5
+        }, {
+          "peso": "1.5Kg",
+          "preco": 7
+        },
+        {
+          "peso": "1.2KG",
+          "preco": 5.75
+        }
+      ],
       "categoria": "Pastel"
     }
   ]
