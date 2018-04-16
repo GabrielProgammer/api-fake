@@ -4,18 +4,10 @@
       "img": "bebida-coca-cola.jpg",
       "nome": "Coca-cola",
       "preco": 4.5,
-      "versoes": [{
+      "versoes": {
           "peso": "450ml",
           "preco": 4.5
-        }, {
-          "peso": "1.5L",
-          "preco": 7
-        },
-        {
-          "peso": "600ml",
-          "preco": 5.75
-        }
-      ],
+      },
       "categoria": "Refrigerante"
     },
     {
@@ -23,18 +15,10 @@
       "img": "bebida-antarctica.jpg",
       "nome": "Antártica",
       "preco": 4.5,
-      "versoes": [{
+      "versoes": {
           "peso": "450ml",
           "preco": 4.5
-        }, {
-          "peso": "1.5L",
-          "preco": 7
         },
-        {
-          "peso": "600ml",
-          "preco": 5.75
-        }
-      ],
       "categoria": "Refrigerante"
     },
     {
